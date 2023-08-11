@@ -17,8 +17,8 @@ const Home = () => {
         exit={{ opacity: 0 }}
         className="absolute top-0 mt-12 text-center"
       >
-        <p>"From "</p>
-        <p>Syaiful Yusuf</p>
+        <p>"Selamat Ulang Tahun "</p>
+        <p>Devi Surya Indah</p>
       </motion.div>
       {/* Mobile */}
       <Link
