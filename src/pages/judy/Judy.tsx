@@ -27,7 +27,7 @@ const Judy = () => {
             Our Wishes
           </Link>
           <Link
-            to={"https://github.com/SomnathDas/lofty-leather"}
+            to={"https://github.comr"}
             className="hover:underline"
           >
             About this
